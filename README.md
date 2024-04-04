@@ -1,2 +1,0 @@
-# Entertainment_Tableau_Dashboard
-Almabetter Tableau Project
