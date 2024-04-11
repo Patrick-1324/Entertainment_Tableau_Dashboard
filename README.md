@@ -1,4 +1,6 @@
 
+![Screenshot 2024-03-17 223603](https://github.com/Patrick-1324/Entertainment_Tableau_Dashboard/assets/59449931/f8bbe233-9a08-4993-854e-1f26af71db70)
+
 # Entertainment Tableau Dashboard
 
 ## Overview
@@ -13,10 +15,6 @@ The mission was to leverage Tableau's robust capabilities to craft a compelling 
 - Data cleaning and preprocessing of 'Movie Revenue and Ratings' and 'Movie Production Details' datasets.
 - Comprehensive data analysis to identify trends, patterns, and correlations.
 - Development of actionable insights to optimize e-commerce strategies and improve customer engagement.
-
-
-
-
 
 
 ## 🛠 Skills
@@ -61,5 +59,4 @@ The mission was to leverage Tableau's robust capabilities to craft a compelling 
 
 ## Demo
 
-![Dashboard Demo](https://drive.google.com/file/d/17h4ZpkFxlnE4TLhOepO2pumu9cO0ZARB/view?usp=sharing)
-
+!(https://github.com/Patrick-1324/Entertainment_Tableau_Dashboard/assets/59449931/9f03536e-fc30-449f-9914-7b5b1c8fb565)
