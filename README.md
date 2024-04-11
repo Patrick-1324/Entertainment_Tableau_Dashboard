@@ -1,5 +1,5 @@
-
 ![Screenshot 2024-03-17 223603](https://github.com/Patrick-1324/Entertainment_Tableau_Dashboard/assets/59449931/f8bbe233-9a08-4993-854e-1f26af71db70)
+
 
 # Entertainment Tableau Dashboard
 
@@ -59,4 +59,5 @@ The mission was to leverage Tableau's robust capabilities to craft a compelling 
 
 ## Demo
 
-!(https://github.com/Patrick-1324/Entertainment_Tableau_Dashboard/assets/59449931/9f03536e-fc30-449f-9914-7b5b1c8fb565)
+![Entertainment-tableau-dashboard](https://github.com/Patrick-1324/Entertainment_Tableau_Dashboard/assets/59449931/f1c979ae-b8de-4702-9141-e359e9ff7765)
+
